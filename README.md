@@ -1,23 +1,24 @@
 # build-u-own-VPN
 
-OpenVPN搭建VPS服务器：
+<h1>OpenVPN搭建VPS服务器</h1>
 
-1:FinalShell下载：https://www.hostbuf.com/t/988.html，具体版本可根据自己的系统下降即可
+**1:FinalShell下载：** <br>
+https://www.hostbuf.com/t/988.html，具体版本可根据自己的系统下降即可
 
-2:OpenVPN搭建：
- (1)安装wget： 
-  ①apt update
-  ②apt-get install wget
- (2)搭建代码： wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
+**2:OpenVPN搭建：**<br>
+ (1)安装wget： <br>
+   ①apt update<br>
+   ②apt-get install wget<br>
+ (2)搭建代码： <br>
+   wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
  
-3:OpenVPN客户端下载链接：https://openvpn.net/vpn-client/
+**3:OpenVPN客户端下载链接：**<br>
+https://openvpn.net/vpn-client/
 
-4：
-**OpenVPN和V2ray的区别：**
+**4:OpenVPN和V2ray的区别：**<br>
 
 VPN使用场景:               登陆公司服务器，副业：翻墙
 V2Ray使用场景:             翻墙、科学上网
-
 
 VPN隐私:                  保护个人隐私的能力强
 V2Ray隐私:                没什么保护
@@ -34,8 +35,5 @@ V2Ray翻墙能力:            强、天生就是为了翻墙
 VPN翻墙后速度:            理论上会下降、实际要看服务商的实力
 V2Ray翻墙后速度:          理论上不会下降、或者下降很少。实际上还是要看服务商的实力
 
-
-
 VPN被防火墙发现并干掉:    比较容易｜Cisco AnyConnect是个例外、国内不封
 V2Ray被防火墙发现并干掉:  不容易
-
