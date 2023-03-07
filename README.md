@@ -1,3 +1,7 @@
+<h1>本文仅供学习参考,无任何盈利性质,不承担任何法律责任</h1>
+<h1>本文仅供VPN技术的学习记录，请勿传播</h1>
+<h1>如果有人看到本文章，请勿私自搭建进行违法犯罪行为</h1>
+
 # Build-U-OWN-VPN in google cloud: https://console.cloud.google.com
 
 <h1>OpenVPN搭建VPS服务器</h1>
