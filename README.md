@@ -21,8 +21,8 @@ https://openvpn.net/vpn-client/
 VPN使用场景:              登陆公司服务器，副业：翻墙<br>
 V2Ray使用场景:            翻墙、科学上网<br>
 
-VPN隐私:                  保护个人隐私的能力强<br>
-V2Ray隐私:                没什么保护<br>
+VPN隐私:                  **保护个人隐私的能力强**<br>
+V2Ray隐私:                **没什么保护**<br>
 
 VPN加密协议:              传统的加密协议：PPTP、L2TP 、OpenVPN、Cisco AnyConnect<br>
 V2Ray加密协议:            自行研发的 VMess 协议<br>
