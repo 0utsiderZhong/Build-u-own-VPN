@@ -42,15 +42,14 @@ V2Ray被防火墙发现并干掉:  不容易<br>
 Resource from: https://www.youtube.com/watch?v=WjHscXTpsl4
 
 
-<h1>OpenVPN如何避免IP被墙</h1>
-**1**<br>
+<h1>VPN如何避免IP被墙</h1>
+<br>
+1: <br>
 先购买一个便宜的VPS：<br>
 https://hostalk.net/deals.html<br>
-
-**2**<br>
+2: <br>
 然后添加域名DNS解析，跑wss脚本，教程：<br>
 https://1024.day/d/1916  <br>
-
-**3**<br>
+3: <br>
 最后前置IP就可以填写 http://cloudflare.com 或者 CF IP 来翻墙了。<br>
 这样也相对来说安全得多。<br>
