@@ -1,4 +1,4 @@
-# build-u-own-VPN
+# Build-U-OWN-VPN in google cloud: https://console.cloud.google.com
 
 <h1>OpenVPN搭建VPS服务器</h1>
 
