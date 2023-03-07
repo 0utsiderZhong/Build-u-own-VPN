@@ -3,7 +3,8 @@
 <h1>OpenVPN搭建VPS服务器</h1>
 
 **1:FinalShell下载：** <br>
-https://www.hostbuf.com/t/988.html，具体版本可根据自己的系统下降即可
+https://www.hostbuf.com/t/988.html<br>
+具体版本可根据自己的系统下降即可
 
 **2:OpenVPN搭建：**<br>
  (1)安装wget： <br>
