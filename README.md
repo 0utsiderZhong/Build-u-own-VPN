@@ -2,7 +2,7 @@
 <h1>本文仅供VPN技术的学习记录，请勿传播</h1>
 <h1>如果有人看到本文章，请勿私自搭建进行违法犯罪行为</h1>
 
-# Build-U-OWN-VPN in google cloud: https://console.cloud.google.com
+# Build-U-OWN-VPN in Google cloud: https://console.cloud.google.com
 
 <h1>OpenVPN搭建VPS服务器</h1>
 
@@ -18,9 +18,9 @@ https://www.hostbuf.com/t/988.html<br>
    wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
  
 **3:OpenVPN客户端下载链接：**<br>
-https://openvpn.net/vpn-client/
-
-**4:OpenVPN和V2ray的区别：**<br>
+https://openvpn.net/vpn-client/   <br>
+--------------------------------------------------------------------------------------<br>
+**OpenVPN和V2ray的区别：**<br>
 
 VPN使用场景:              登陆公司服务器，副业：翻墙<br>
 V2Ray使用场景:            翻墙、科学上网<br>
@@ -43,7 +43,7 @@ V2Ray翻墙后速度:          理论上不会下降、或者下降很少。实�
 VPN被防火墙发现并干掉:    比较容易｜Cisco AnyConnect是个例外、国内不封<br>
 V2Ray被防火墙发现并干掉:  不容易<br>
 
-Resource from: https://www.youtube.com/watch?v=WjHscXTpsl4
+**Resource from: https://www.youtube.com/watch?v=WjHscXTpsl4**
 
 
 <h1>VPN如何避免IP被墙</h1>
